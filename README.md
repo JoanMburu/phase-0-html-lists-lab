@@ -119,7 +119,7 @@ The first part of this challenge is to make the first 2 tests pass by:
 Open `index.html` in your browser.
 
 Let's say we wanted to list out the ingredients required for making a grilled
-cheese sandwich. The ingredients are: `2 slices of bread`, `4 slices of cheese`,
+cheese sandwich. The ingredients are: `2 slices of bread`, `4 slices of cheese',
 `1 tbsp of butter`.
 
 For the first part of this challenge, in `index.html`, create an unordered list
